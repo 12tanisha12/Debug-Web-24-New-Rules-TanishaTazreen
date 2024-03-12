@@ -1,0 +1,22 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+body {
+  background: pink;
+  background-color: lightpink;
+}
+/*I changed the font family and chnaged  the font color*/
+h1,h3{
+color:deeppink ;
+font-family: Arial, Helvetica, sans-serif; 
+   text-shadow: 2px 2px 5px white;
+  background-color: white;
+/*I changed the font size and colors and added a white background*/  
+}
+p{
+color:fuchsia ;
+font-family: cursive;
+  border-style: dotted;
+  background-color: mintcream;
+}
+/*I changed the font family and chnaged  the font color and created a border*/
